@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My CI/CD Project</title>
+</head>
+<body>
+
+    <h1>Hello GitHub Actions!</h1>
+    <p>My CI/CD pipeline is working.</p>
+
+</body>
+</html>
